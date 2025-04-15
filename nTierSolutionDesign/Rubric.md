@@ -1,7 +1,3 @@
-** *n-Tier* solution design
-
-*** Rubric
-
 # Rubric: n-Tier Cloud Solution Design (100 Points)
 
 | **Category**                    | **Criteria**                                                                                                                                 | **Points** |
